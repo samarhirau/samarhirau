@@ -1,22 +1,74 @@
-# 💫 About Me:
-🔭 I’m currently working on Project RID(Research Innovation & Discovery)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Mern Stack<br>💬 Ask me about<br>⚡ Fun fact
+# Hi, I’m Samar 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-samarhirau.me-blue)](https://samarhirau.me)
+[![Email](https://img.shields.io/badge/Contact-samrhirau@gmail.com-red)](mailto:samrhirau@gmail.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=samarhirau.samarhirau)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samarhirau&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samarhirau&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarhirau&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me
+I’m a **Full Stack Developer (MERN)** passionate about creating modern, efficient, and user-friendly web applications.  
+Recently, I completed a **6-month internship at RID (Research Innovation & Discovery)**, where I worked on both backend and frontend development, led the Git & GitHub sessions, and received an **award for backend excellence**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samarhirau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently, I’m exploring **IoT integrations**, **AI-powered tools**, and preparing for **GATE**.  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samarhirau&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+💬 Hinglish or English — dono mein code samjha deta hoon 😄  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Samarhirau&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔭 What I’m Working On
+- Building a new **modern portfolio website** (next version of samarhirau.me)  
+- Developing **AI-based utilities** and productivity tools  
+- Preparing for **GATE 2026 (CSE)**  
+
+---
+
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🚀 Featured Work
+### 🔹 RID (Research Innovation & Discovery)
+**Role:** Backend & Frontend Developer (6-month internship)  
+- Built **eBook management system** with PDF upload & viewing features  
+- Implemented **JWT authentication**, image & PDF storage with **Cloudinary**  
+- Conducted a **Git & GitHub training session** for the RID team  
+- Received **award for backend excellence**
+
+**Organization:** TWSKAA Welfare Foundation  
+**Project:** RID Bharat website  
+
+---
+
+## 🏆 Achievements
+- 🥇 **Awarded for backend excellence** at RID  
+- 💻 **Full Stack Development Certification** — PW Skills  
+- 🎓 **B.Tech in Computer Science Engineering (CSE) — Graduated**  
+- 🧠 Major Project: **Minthera - IoT-based Water Quality Monitoring System**  
+- 🏅 **Winner of 2 National-Level Hackathons**
+
+---
+
+## 📈 GitHub Stats
+![Samar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarhirau&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarhirau&layout=compact&theme=radical)
+
+---
+
+## 📫 Let’s Connect
+- 🌐 [Portfolio](https://samarhirau.me)
+- ✉️ [Email](mailto:samrhirau@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samarhirau) *(optional — add if you want)*
+- 🧠 [GitHub](https://github.com/samarhirau)
+
+---
+
+⭐ *“Code is not just logic — it’s the art of solving problems beautifully.”*
