@@ -66,7 +66,7 @@ Currently, I’m exploring **IoT integrations**, **AI-powered tools**, and prepa
 ## 📫 Let’s Connect
 - 🌐 [Portfolio](https://samarhirau.me)
 - ✉️ [Email](mailto:samrhirau@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/samarhirau) *(optional — add if you want)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/samarhirau)
 - 🧠 [GitHub](https://github.com/samarhirau)
 
 ---
