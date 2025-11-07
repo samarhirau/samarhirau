@@ -1,6 +1,6 @@
 # Hi, I’m Samar 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samarhirau.me-blue)](https://samarhirau.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samarhirau.me-blue)](https://samarhirau.dev)
 [![Email](https://img.shields.io/badge/Contact-samrhirau@gmail.com-red)](mailto:samrhirau@gmail.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=samarhirau.samarhirau)
 
